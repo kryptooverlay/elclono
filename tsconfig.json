@@ -21,6 +21,6 @@
       "@styles/*": ["styles/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "scripts/createUsers.js"],
   "exclude": ["node_modules", "functions"]
 }
